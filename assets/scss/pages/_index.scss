@@ -1,0 +1,350 @@
+.hero-img {
+  background: url("../../assets/images/event/13.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 518px;
+}
+.hero-title {
+  font-size: 60px;
+}
+.explore {
+  border: 1px solid #000000;
+}
+.explore-text {
+  font-size: 24px;
+  font-family: "Noto Serif TC", sans-serif;
+  font-weight: 700;
+}
+.explore-img {
+  height: 80px;
+  width: 80px;
+}
+.explore-img1 {
+  background: url("../../assets/images/cate01.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.explore-img2 {
+  background: url("../../assets/images/cate02.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.explore-img3 {
+  background: url("../../assets/images/cate03.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.explore-img4 {
+  background: url("../../assets/images/cate04.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.explore-img5 {
+  background: url("../../assets/images/cate05.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.explore-more {
+  font-size: 48px;
+  font-family: "Noto Serif TC", sans-serif;
+  line-height: 60px;
+}
+.eng-title {
+  font-size: 64px;
+}
+.chinese-title {
+  font-size: 32px;
+}
+.card-header {
+  padding: 0;
+  border-bottom: 3px solid #030303;
+}
+.card-body {
+  padding: 0;
+}
+.card-img {
+  width: 100%;
+  height: 255px;
+}
+.card-img-01 {
+  background: url("../../assets/images/event/01.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.card-img-02 {
+  background: url("../../assets/images/event/02.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.card-img-03 {
+  background: url("../../assets/images/event/03.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.card-img-04 {
+  background: url("../../assets/images/event/04.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.card-img-05 {
+  background: url("../../assets/images/event/05.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.card-img-06 {
+  background: url("../../assets/images/event/06.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.card-img-07 {
+  background: url("../../assets/images/event/07.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.card-img-08 {
+  background: url("../../assets/images/event/08.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.card-img-09 {
+  background: url("../../assets/images/event/09.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.card-img-10 {
+  background: url("../../assets/images/event/10.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.card-img-11 {
+  background: url("../../assets/images/event/11.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.card-img-12 {
+  background: url("../../assets/images/event/12.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.card-footer {
+  border-top: 2px solid #030303;
+  border-bottom: 2px solid #030303;
+  padding-left: 0;
+  padding-right: 0;
+  background: none;
+}
+.star-img {
+  background: url("../../assets/images/sparkler.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 24px;
+  height: 24px;
+}
+.tag-box .tag {
+  .tag-head {
+    width: 4px;
+    height: 36px;
+    border: 1px solid #030303;
+    background: #030303;
+  }
+  .tag-text {
+    color: #030303;
+    border: 1px solid #030303;
+    border-left: 0px;
+    height: 36px;
+  }
+  &:hover {
+    background: #030303;
+    color: #fff;
+    .tag-head {
+      width: 4px;
+      border: 1px solid #fbff22;
+      background: #fbff22;
+    }
+    .tag-text {
+      color: #fff;
+      border: 1px solid #030303;
+    }
+  }
+  // &:hover {
+  //   background: #030303;
+  //   border-left: 4px solid #FBFF22 ;
+  //   color: #ffffff;
+  // }
+}
+.online-img {
+  background: url("../../assets/images/event/online.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.belt {
+  line-height: 48px;
+  font-size: 32px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.album-img {
+  width: 100%;
+  height: 274px;
+}
+.album-img01 {
+  background: url("../../assets/images/album/01.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.album-img02 {
+  background: url("../../assets/images/album/02.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.tape {
+  top: 0%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-4deg);
+}
+.card2 {
+  transform: rotate(-2deg);
+}
+.card3 {
+  transform: rotate(2deg);
+}
+.album-txt {
+  font-size: 18px;
+}
+.follow-icon {
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+}
+.btn-subscript {
+  font-size: 20px;
+}
+.btn-subscript:hover {
+  color: #fbff22;
+}
+.checkbtn:hover {
+  color: #fbff22;
+}
+.activity:hover {
+  text-decoration: underline;
+}
+
+.now-state {
+  position: relative; 
+  z-index: 5; 
+  &::after {
+    content: "";
+    display: block;
+    position: absolute;
+    background: #fbff22;
+    width: 0px;
+    height: 0px;
+    border-radius: 50%;
+    left: -8px;
+    mix-blend-mode: multiply;      
+  }
+  &:hover::after{
+    width: 30px;
+    height: 30px;
+  }
+}
+
+.sub-box {
+  border-left: 0px !important;
+}
+.word-top {
+  font-size: 32px;
+}
+.word-bottom {
+  font-size: 18px;
+}
+.footer {
+  font-size: 16px;
+}
+.page-item {
+  width: 40px;
+  height: 40px;
+  background: none;
+}
+@media (max-width: 992px) {
+  .explore-img {
+    height: 40px;
+    width: 40px;
+  }
+  .explore-text {
+    font-size: 20px;
+    font-family: "Noto Serif TC", sans-serif;
+    font-weight: 700;
+  }
+  .explore-more {
+    font-size: 28px;
+    font-family: "Noto Serif TC", sans-serif;
+    line-height: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .hero-title {
+    font-size: 32px;
+    line-height: 1.125;
+  }
+  .explore-text {
+    font-size: 16px;
+    font-family: "Noto Serif TC", sans-serif;
+    font-weight: 700;
+  }
+  .explore-img {
+    height: 40px;
+    width: 40px;
+  }
+  .explore-more {
+    font-size: 24px;
+    font-family: "Noto Serif TC", sans-serif;
+    line-height: 32px;
+  }
+  .eng-title {
+    font-size: 24px;
+  }
+  .chinese-title {
+    font-size: 16px;
+  }
+  .card-img {
+    width: 100%;
+    height: 210px;
+  }
+  .belt {
+    line-height: 24px;
+    font-size: 16px;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  .sub-box {
+    border-left: 1px solid #030303 !important;
+  }
+  .word-top {
+    font-size: 18px;
+  }
+}

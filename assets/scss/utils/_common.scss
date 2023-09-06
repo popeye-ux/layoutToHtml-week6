@@ -1,0 +1,40 @@
+.navbar-link {
+  font-family: "Yeseva One", cursive, "Noto Serif TC", serif;
+  font-size: 18px;
+}
+.font-Yeseva-one {
+  font-family: "Yeseva One", cursive, "Noto Serif TC", serif;
+  line-height: 1.5;
+}
+.noto-serif-tc {
+  font-family: "Noto Serif TC", serif;
+  line-height: 1.5;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+h3 {
+  font-size: 48px;
+  line-height: 56px;
+}
+h4 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: justify;
+}
+

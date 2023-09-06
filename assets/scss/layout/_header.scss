@@ -1,0 +1,70 @@
+.header {
+  background: #69f0ae;
+  font-size: 64px;
+}
+.logo {
+  width: 54px;
+  height: 54px;
+  background: url(../assets/images/logo.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.header-search {
+  padding: 0;
+  line-height: 1.5;
+  font-size: 16px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 24px;
+  height: 54px;
+  width: 285px;
+}
+.search-btn{
+  width: 54px;
+  height: 54px;
+}
+.logo-name {
+  font-size: 32px;
+}
+.logo-sub {
+  font-size: 16px;
+  color: #030303;
+  font-weight: 700;
+}
+
+.nav-link-color {
+  color: #030303;
+  font-size: 18px;
+  &:hover {
+    color: #9c9e18;
+  }
+}
+
+@media (max-width: 767px) {
+  .header-search {
+    padding: 0;
+    line-height: 1.5;
+    font-size: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 12px;
+    height: 40px;
+    width: 160px;
+  }
+  .logo {
+    width: 40px;
+    height: 40px;
+    background: url(../assets/images/logo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .search-btn{
+    width: 40px;
+    height: 40px;
+  }
+  .navbar-toggle-modify{
+    border: 1px solid #030303;
+  }
+}
